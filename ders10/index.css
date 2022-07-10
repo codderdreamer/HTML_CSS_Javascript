@@ -1,0 +1,42 @@
+/* PSEUDO ELEMENTS */
+
+p::first-line{
+    font-weight: bold;
+    color: red;
+    word-spacing: 2px;
+    letter-spacing: 2px;    
+}
+
+p::first-letter{
+    font-size: 50px;
+}
+
+ul li {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+ul li:first-child{
+    background-color: darkslategray;
+}
+
+ul li:last-child{
+    background-color:  deepskyblue;
+}
+
+a:visited{
+    color: palevioletred;
+}
+
+a:hover{
+    color: white;
+    background: lightblue;
+}
+
+a{
+    padding: 5px 10px;
+    text-decoration: none;
+    display: block;
+    width: 100px;
+    margin-bottom: 10px;
+}

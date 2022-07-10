@@ -1,0 +1,19 @@
+
+/* 
+ATTRIBUTE SELECTORS
+*/
+
+
+h2[title="header1"]{
+    color: red;
+}
+
+p[title="paragraph1"]{
+    color: lightblue;
+    text-align:  justify;
+}
+
+input[type="text"]{
+    background-color: aquamarine;
+}
+
