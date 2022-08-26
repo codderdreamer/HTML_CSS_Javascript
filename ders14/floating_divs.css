@@ -1,0 +1,33 @@
+#container {
+    background-color: gray;
+    width: auto;
+}
+
+#first {
+    background-color: antiquewhite;
+    float: left;
+}
+
+#second {
+    background-color: aqua;
+    float: left;
+}
+
+#third {
+    background-color: chocolate;
+    float: left;
+}
+
+#fourth {
+    background-color: cornflowerblue;
+    float: left;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    overflow: scroll;
+}
+
+

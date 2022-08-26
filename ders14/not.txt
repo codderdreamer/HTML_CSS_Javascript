@@ -1,0 +1,7 @@
+FLOATING DIVS
+
+Float bir elementi Normal Akışın dışına çıkarmak için kullanılan bir yöntemdir. 
+Bir biri ardına sıralanmış elementlere float uygulandığında elementler 
+eğer yeterli alan varsa yan yana dizilirler. Float Dinamik Göreceli Konumlandırma 
+gibidir ve bu amaçla kullanılabilir.
+

@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+
+.kutu{
+    width: 150px;
+    height: 150px;
+    /* float: left; */
+    margin-left: 10px;
+}
+
+#kutu1{
+    background-color: antiquewhite;
+}
+
+#kutu2{
+    background-color: rgb(182, 143, 219);
+}
+
+#kutu3{
+    background-color: rgb(202, 134, 85);
+}
+
+span{
+    margin:50px;
+    display: inline-block;
+}

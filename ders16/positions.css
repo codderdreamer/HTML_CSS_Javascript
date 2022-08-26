@@ -1,0 +1,22 @@
+.kutu{
+    width: 150px;
+    height: 150px;
+}
+
+#kutu1{
+    background-color: antiquewhite;
+    width: 100%;
+    position: sticky;
+    top: 10px;
+}
+
+#kutu2{
+    background-color: rgb(182, 143, 219);
+}
+
+#kutu3{
+    background-color: rgb(202, 134, 85);
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
