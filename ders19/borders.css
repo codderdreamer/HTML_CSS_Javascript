@@ -1,0 +1,23 @@
+.kutu{
+    width: 150px;
+    height: 150px;
+    background-color: lightgray;
+    margin: 20px;
+    padding: 20px;
+}
+
+#kutu1{
+    border: 1px solid blue;
+    border-radius: 50%;
+}
+
+#kutu2{
+    border-top: 3px solid lightsalmon;
+    border-right-style: groove;
+}
+
+#kutu3{
+    border-width: 5px;
+    border-style: double;
+    border-color: seagreen;
+}

@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p#paragraph1{
+    text-align: right;
+}
+
+p#paragraph2{
+    text-align: center;
+}
+
+p#paragraph3{
+    text-align: left;
+    border: 2px solid gray;
+    padding: 10px;
+    column-count: 3;
+    -webkit-column-count: 3;    /* opera ve safari */
+    -moz-column-count: 3;       /* mozilla */
+    column-rule: 2px solid lightblue;
+    -webkit-column-rule: 2px solid lightblue;
+    -moz-column-column-rule: 2px solid lightblue;
+}
+
+p#paragraph4{
+    text-align: justify; /* iki yana yasla */
+    text-indent: 15px;
+}
